@@ -1,0 +1,207 @@
+Year,Gender,Race/Ethnicity,LEP Status,LEP Numeric,Economically Disadvantaged Status,ED Numeric,Language Code,English Language Proficiency Level,ELPL Numeric,Primary Disability Type,ELA Scale Score,ELA Achievement Level,ELA AL ,Math Scale Score,Math Achievement Level,Math AL ,Concepts and Procedures Claim Achievement Category,Problem Solving and Modeling & Data Analysis Claim Achievement Category,Communicating Reasoning Claim Achievement Category,Fall RIT,Fall %ile,Typical RIT Growth Points,Tiered RIT Growth Points,Winter GOAL Score,Spring GOAL Score,Winter RIT,Winter %ile,BOY to Winter Growth,Met Winter goal?,Met Winter Goal Numeric,Spring RIT,Spring %ile,BOY to Spring RIT Growth,Winter to Spring RIT Growth ,Met Spring Goal?,Met Spring Goal Numeric 
+2017,F,Hispanic or Latino,N,0,N,0,ENG,NA,6,NA,2512,Standard Met,3,2553,Standard Met,3,Above Standard,Near Standard,Near Standard,195,24,8,12,201,207,212,58,17,Yes,1,201,24,6,-11,Not Yet,0
+2017,F,Hispanic or Latino,N,0,N,0,ENG,NA,6,NA,2484,Standard Nearly Met,2,2537,Standard Met,3,Near Standard,Near Standard,Near Standard,199,33,7,11,204,210,210,53,11,Yes,1,201,24,2,-9,Not Yet,0
+2017,M,White,N,0,Y,1,ENG,NA,6,NA,2441,Standard Not Met,1,2560,Standard Met,3,Above Standard,Near Standard,Near Standard,207,53,6,9,212,216,213,61,6,Yes,1,212,51,5,-1,Not Yet,0
+2017,F,Hispanic or Latino,N,0,N,0,ENG,NA,6,NA,2487,Standard Nearly Met,2,2456,Standard Nearly Met,2,Near Standard,Below Standard,Below Standard,200,35,7,11,205,211,198,23,-2,No,0,203,28,3,5,Not Yet,0
+2017,F,Hispanic or Latino,N,0,N,0,ENG,NA,6,NA,2463,Standard Nearly Met,2,2467,Standard Nearly Met,2,Below Standard,Below Standard,Near Standard,209,59,6,9,214,218,210,53,1,No,0,215,59,6,5,Not Yet,0
+2017,M,Filipino,N,0,N,0,ENG,NA,6,NA,2334,Standard Not Met,1,2467,Standard Nearly Met,2,Below Standard,Near Standard,Near Standard,190,15,8,12,196,202,182,3,-8,No,0,196,15,6,14,Not Yet,0
+2017,M,Hispanic or Latino,N,0,Y,1,ENG,NA,6,EMN,2363,Standard Not Met,1,2515,Standard Nearly Met,2,Near Standard,Below Standard,Near Standard,180,4,10,15,188,195,180,2,0,No,0,179,1,-1,-1,Not Yet,0
+2017,M,White,N,0,Y,1,ENG,NA,6,NA,2423,Standard Not Met,1,2513,Standard Nearly Met,2,Near Standard,Near Standard,Near Standard,207,53,6,9,212,216,201,29,-6,No,0,206,35,-1,5,Not Yet,0
+2017,M,Native Hawaiian or Pacific Islander,N,0,N,0,ENG,NA,6,NA,2355,Standard Not Met,1,2392,Standard Not Met,1,Below Standard,Below Standard,Near Standard,185,9,9,14,192,199,171,1,-14,No,0,165,1,-20,-6,Not Yet,0
+2017,F,Hispanic or Latino,N,0,N,0,ENG,NA,6,NA,2201,Standard Not Met,1,2372,Standard Not Met,1,Below Standard,Below Standard,Below Standard,200,35,7,11,205,211,212,58,12,Yes,1,208,41,8,-4,Not Yet,0
+2017,M,Hispanic or Latino,N,0,Y,1,ENG,NA,6,EMN,2356,Standard Not Met,1,2415,Standard Not Met,1,Below Standard,Below Standard,Below Standard,161,1,13,20,171,181,184,4,23,Yes,1,180,2,19,-4,Not Yet,0
+2017,F,Black or African American,Y,1,N,0,FRE,EARLY INTERMEDIATE,2,NA,2329,Standard Not Met,1,2372,Standard Not Met,1,Below Standard,Below Standard,Below Standard,172,1,11,17,180,189,175,1,3,No,0,181,2,9,6,Not Yet,0
+2017,F,Asian,N,0,N,0,JPN,NA,6,NA,2604,Standard Exceeded,4,2610,Standard Exceeded,4,Above Standard,Above Standard,Near Standard,227,92,3,4,229,231,221,79,-6,No,0,221,74,-6,0,Not Yet,0
+2017,F,Filipino,N,0,N,0,PHI,NA,6,NA,2595,Standard Exceeded,4,2613,Standard Exceeded,4,Above Standard,Above Standard,Above Standard,215,73,5,8,219,223,222,81,7,Yes,1,216,62,1,-6,Not Yet,0
+2017,F,Hispanic or Latino,Y,1,Y,1,SPA,ADVANCED,5,NA,2598,Standard Exceeded,4,2613,Standard Exceeded,4,Above Standard,Above Standard,Above Standard,225,90,3,4,227,229,223,83,-2,No,0,221,74,-4,-2,Not Yet,0
+2017,M,Hispanic or Latino,N,0,N,0,SPA,NA,6,NA,2596,Standard Exceeded,4,2606,Standard Exceeded,4,Above Standard,Near Standard,Near Standard,220,83,4,5,223,225,222,81,2,No,0,223,78,3,1,Not Yet,0
+2017,F,Hispanic or Latino,N,0,N,0,SPA,NA,6,NA,2658,Standard Exceeded,4,2590,Standard Exceeded,4,Above Standard,Above Standard,Near Standard,228,93,3,4,230,232,229,91,1,No,0,225,80,-3,-4,Not Yet,0
+2017,F,Hispanic or Latino,N,0,N,0,SPA,NA,6,NA,2645,Standard Exceeded,4,2700,Standard Exceeded,4,Above Standard,Above Standard,Above Standard,232,96,2,3,233,235,227,89,-5,No,0,232,92,0,5,Not Yet,0
+2017,F,Hispanic or Latino,N,0,Y,1,SPA,NA,6,NA,2697,Standard Exceeded,4,2629,Standard Exceeded,4,Above Standard,Above Standard,Above Standard,230,95,3,4,232,234,228,90,-2,No,0,229,88,-1,1,Not Yet,0
+2017,F,Hispanic or Latino,N,0,N,0,SPA,NA,6,NA,2587,Standard Exceeded,4,2587,Standard Exceeded,4,Above Standard,Near Standard,Near Standard,220,83,4,5,223,225,223,83,3,Yes,1,224,80,4,1,Not Yet,0
+2017,F,Hispanic or Latino,N,0,Y,1,SPA,NA,6,NA,2629,Standard Exceeded,4,2586,Standard Exceeded,4,Above Standard,Above Standard,Near Standard,216,75,5,6,219,222,223,83,7,Yes,1,221,74,5,-2,Not Yet,0
+2017,F,Hispanic or Latino,N,0,Y,1,SPA,NA,6,NA,2635,Standard Exceeded,4,2590,Standard Exceeded,4,Above Standard,Above Standard,Near Standard,230,95,3,4,232,234,233,95,3,Yes,1,230,90,0,-3,Not Yet,0
+2017,M,Hispanic or Latino,N,0,N,0,SPA,ADVANCED,5,NA,2554,Standard Met,3,2599,Standard Exceeded,4,Above Standard,Above Standard,Near Standard,224,89,3,4,226,228,221,79,-3,No,0,224,80,0,3,Not Yet,0
+2017,M,Hispanic or Latino,N,0,N,0,SPA,NA,6,NA,2507,Standard Met,3,2697,Standard Exceeded,4,Above Standard,Above Standard,Above Standard,214,71,5,8,218,222,214,63,0,No,0,214,57,0,0,Not Yet,0
+2017,F,Hispanic or Latino,N,0,N,0,SPA,NA,6,NA,2544,Standard Met,3,2628,Standard Exceeded,4,Above Standard,Above Standard,Above Standard,216,75,5,6,219,222,218,73,2,No,0,216,62,0,-2,Not Yet,0
+2017,M,Hispanic or Latino,N,0,Y,1,SPA,NA,6,NA,2503,Standard Met,3,2590,Standard Exceeded,4,Above Standard,Above Standard,Above Standard,214,71,5,8,218,222,217,71,3,No,0,220,72,6,3,Not Yet,0
+2017,F,Hispanic or Latino,N,0,N,0,SPA,NA,6,NA,2563,Standard Met,3,2632,Standard Exceeded,4,Above Standard,Above Standard,Above Standard,209,59,6,9,214,218,225,86,16,Yes,1,214,57,5,-11,Not Yet,0
+2017,M,Hispanic or Latino,N,0,N,0,SPA,NA,6,NA,2511,Standard Met,3,2562,Standard Met,3,Near Standard,Near Standard,Above Standard,201,38,7,11,206,212,186,6,-15,No,0,206,35,5,20,Not Yet,0
+2017,F,Hispanic or Latino,N,0,N,0,SPA,NA,6,NA,2516,Standard Met,3,2564,Standard Met,3,Above Standard,Near Standard,Near Standard,205,48,6,9,210,214,203,34,-2,No,0,212,51,7,9,Not Yet,0
+2017,F,Hispanic or Latino,Y,1,Y,1,SPA,EARLY ADVANCED,4,NA,2522,Standard Met,3,2550,Standard Met,3,Above Standard,Near Standard,Below Standard,199,33,7,11,204,210,205,39,6,Yes,1,208,41,9,3,Not Yet,0
+2017,F,Hispanic or Latino,Y,1,N,0,SPA,INTERMEDIATE,3,NA,2525,Standard Met,3,2536,Standard Met,3,Above Standard,Below Standard,Near Standard,194,22,8,12,200,206,206,42,12,Yes,1,205,33,11,-1,Not Yet,0
+2017,F,Hispanic or Latino,N,0,N,0,SPA,NA,6,NA,2514,Standard Met,3,2561,Standard Met,3,Above Standard,Near Standard,Near Standard,208,56,6,9,213,217,216,68,8,Yes,1,204,30,-4,-12,Not Yet,0
+2017,M,Hispanic or Latino,N,0,N,0,SPA,NA,6,NA,2531,Standard Met,3,2531,Standard Met,3,Near Standard,Near Standard,Near Standard,202,40,7,11,207,213,215,66,13,Yes,1,210,46,8,-5,Not Yet,0
+2017,M,Hispanic or Latino,Y,1,Y,1,SPA,NA,6,NA,2350,Standard Not Met,1,2539,Standard Met,3,Above Standard,Near Standard,Near Standard,163,1,12,18,172,181,168,1,5,No,0,173,1,10,5,Not Yet,0
+2017,M,Hispanic or Latino,N,0,N,0,SPA,NA,6,NA,2586,Standard Exceeded,4,2504,Standard Nearly Met,2,Near Standard,Near Standard,Near Standard,211,64,5,8,215,219,214,63,3,No,0,214,57,3,0,Not Yet,0
+2017,F,Hispanic or Latino,N,0,N,0,SPA,NA,6,NA,2521,Standard Met,3,2522,Standard Nearly Met,2,Near Standard,Below Standard,Near Standard,205,48,6,9,210,214,203,34,-2,No,0,209,43,4,6,Not Yet,0
+2017,M,Hispanic or Latino,Y,1,N,0,SPA,INTERMEDIATE,3,NA,2502,Standard Met,3,2526,Standard Nearly Met,2,Near Standard,Below Standard,Near Standard,202,40,7,11,207,213,214,63,12,Yes,1,206,35,4,-8,Not Yet,0
+2017,F,Hispanic or Latino,N,0,N,0,SPA,NA,6,NA,2548,Standard Met,3,2471,Standard Nearly Met,2,Below Standard,Below Standard,Near Standard,212,66,5,8,216,220,217,71,5,Yes,1,217,64,5,0,Not Yet,0
+2017,M,Hispanic or Latino,Y,1,Y,1,SPA,INTERMEDIATE,3,NA,2445,Standard Nearly Met,2,2507,Standard Nearly Met,2,Near Standard,Below Standard,Near Standard,202,40,7,11,207,213,205,39,3,No,0,202,26,0,-3,Not Yet,0
+2017,M,Hispanic or Latino,N,0,Y,1,SPA,NA,6,NA,2486,Standard Nearly Met,2,2498,Standard Nearly Met,2,Near Standard,Near Standard,Near Standard,201,38,7,11,206,212,203,34,2,No,0,202,26,1,-1,Not Yet,0
+2017,M,Hispanic or Latino,Y,1,N,0,SPA,EARLY ADVANCED,4,NA,2436,Standard Not Met,1,2497,Standard Nearly Met,2,Near Standard,Near Standard,Near Standard,205,48,6,9,210,214,209,50,4,No,0,205,33,0,-4,Not Yet,0
+2017,F,Hispanic or Latino,N,0,N,0,SPA,INTERMEDIATE,3,NA,2430,Standard Not Met,1,2525,Standard Nearly Met,2,Above Standard,Below Standard,Below Standard,188,12,9,14,195,202,194,15,6,No,0,200,24,12,6,Not Yet,0
+2017,M,Hispanic or Latino,Y,1,Y,1,SPA,INTERMEDIATE,3,NA,2396,Standard Not Met,1,2473,Standard Nearly Met,2,Near Standard,Below Standard,Below Standard,189,14,9,14,196,203,195,17,6,No,0,193,10,4,-2,Not Yet,0
+2017,M,Hispanic or Latino,Y,1,N,0,SPA,BEGINNING,1,NA,2366,Standard Not Met,1,2459,Standard Nearly Met,2,Near Standard,Below Standard,Below Standard,195,24,8,12,201,207,202,32,7,Yes,1,178,1,-17,-24,Not Yet,0
+2017,F,Hispanic or Latino,Y,1,Y,1,SPA,INTERMEDIATE,3,NA,2367,Standard Not Met,1,2466,Standard Nearly Met,2,Near Standard,Below Standard,Below Standard,175,2,10,15,183,190,186,6,11,Yes,1,177,1,2,-9,Not Yet,0
+2017,F,Hispanic or Latino,Y,1,Y,1,SPA,INTERMEDIATE,3,NA,2507,Standard Met,3,2409,Standard Not Met,1,Below Standard,Near Standard,Below Standard,203,43,6,9,208,212,223,83,20,Yes,1,202,26,-1,-21,Not Yet,0
+2017,F,Hispanic or Latino,Y,1,N,0,SPA,BEGINNING,1,ID,2343,Standard Not Met,1,2261,Standard Not Met,1,Below Standard,Below Standard,Below Standard,171,1,11,17,179,188,173,1,2,No,0,168,1,-3,-5,Not Yet,0
+2017,F,Hispanic or Latino,Y,1,Y,1,SPA,BEGINNING,1,NA,2357,Standard Not Met,1,2411,Standard Not Met,1,Below Standard,Below Standard,Below Standard,181,5,10,15,189,196,188,8,7,No,0,186,4,5,-2,Not Yet,0
+2017,M,Hispanic or Latino,Y,1,N,0,SPA,EARLY INTERMEDIATE,2,SLD,2316,Standard Not Met,1,2377,Standard Not Met,1,Below Standard,Below Standard,Below Standard,162,1,13,20,172,182,155,1,-7,No,0,170,1,8,15,Not Yet,0
+2017,F,Asian,Y,1,Y,1,SPA,EARLY INTERMEDIATE,2,SLD,2335,Standard Not Met,1,2419,Standard Not Met,1,Below Standard,Below Standard,Below Standard,184,8,9,14,191,198,184,4,0,No,0,188,5,4,4,Not Yet,0
+2017,M,Hispanic or Latino,Y,1,Y,1,SPA,INTERMEDIATE,3,NA,2436,Standard Not Met,1,2438,Standard Not Met,1,Below Standard,Below Standard,Below Standard,208,56,6,9,213,217,201,29,-7,No,0,206,35,-2,5,Not Yet,0
+2017,M,Hispanic or Latino,Y,1,Y,1,SPA,BEGINNING,1,NA,2260,Standard Not Met,1,2319,Standard Not Met,1,Below Standard,Below Standard,Below Standard,164,1,12,18,173,182,173,1,9,Yes,1,168,1,4,-5,Not Yet,0
+2017,M,Hispanic or Latino,Y,1,Y,1,SPA,INTERMEDIATE,3,NA,2428,Standard Not Met,1,2452,Standard Not Met,1,Near Standard,Below Standard,Below Standard,179,4,10,15,187,194,188,8,9,Yes,1,181,2,2,-7,Not Yet,0
+2017,M,Hispanic or Latino,N,0,N,0,SPA,NA,6,AUT,2329,Standard Not Met,1,2285,Standard Not Met,1,Below Standard,Below Standard,Below Standard,148,1,13,20,158,168,158,1,10,Yes,1,157,1,9,-1,Not Yet,0
+2017,F,Asian,N,0,N,0,VIE,NA,6,NA,2701,Standard Exceeded,4,2700,Standard Exceeded,4,Above Standard,Above Standard,Above Standard,228,93,3,4,230,232,223,83,-5,No,0,228,87,0,5,Not Yet,0
+2017,M,Asian,Y,1,N,0,VIE,ADVANCED,5,NA,2701,Standard Exceeded,4,2700,Standard Exceeded,4,Above Standard,Above Standard,Above Standard,233,96,2,3,234,236,236,97,3,Yes,1,231,91,-2,-5,Not Yet,0
+2017,M,Asian,Y,1,Y,1,VIE,EARLY ADVANCED,4,NA,2490,Standard Nearly Met,2,2622,Standard Exceeded,4,Above Standard,Near Standard,Above Standard,208,56,6,9,213,217,217,71,9,Yes,1,211,49,3,-6,Not Yet,0
+2017,F,Asian,N,0,Y,1,VIE,NA,6,NA,2571,Standard Met,3,2561,Standard Met,3,Above Standard,Near Standard,Near Standard,201,38,7,11,206,212,206,42,5,No,0,209,43,8,3,Not Yet,0
+2017,M,Asian,Y,1,N,0,VIE,EARLY ADVANCED,4,NA,2588,Standard Exceeded,4,2516,Standard Nearly Met,2,Above Standard,Below Standard,Below Standard,215,73,5,8,219,223,212,58,-3,No,0,202,26,-13,-10,Not Yet,0
+2017,M,Asian,Y,1,N,0,VIE,INTERMEDIATE,3,SLD,2387,Standard Not Met,1,2505,Standard Nearly Met,2,Near Standard,Below Standard,Near Standard,191,17,8,12,197,203,186,6,-5,No,0,201,24,10,15,Not Yet,0
+2017,M,Asian,Y,1,N,0,VIE,BEGINNING,1,AUT,2284,Standard Not Met,1,2385,Standard Not Met,1,Below Standard,Near Standard,Below Standard,149,1,13,20,159,169,159,1,10,Yes,1,158,1,9,-1,Not Yet,0
+2017,M,Asian,N,0,N,0,CHI,EARLY ADVANCED,4,NA,2560,Standard Met,3,2607,Standard Exceeded,4,Above Standard,Above Standard,Near Standard,197,28,7,11,202,208,213,61,16,Yes,1,211,49,14,-2,Yes,1
+2017,M,Filipino,N,0,N,0,ENG,NA,6,NA,2642,Standard Exceeded,4,2667,Standard Exceeded,4,Above Standard,Above Standard,Above Standard,226,91,3,4,228,230,221,79,-5,No,0,234,94,8,13,Yes,1
+2017,F,White,N,0,N,0,ENG,NA,6,NA,2526,Standard Met,3,2615,Standard Exceeded,4,Above Standard,Above Standard,Near Standard,200,35,7,11,205,211,209,50,9,Yes,1,213,54,13,4,Yes,1
+2017,F,Hispanic or Latino,N,0,N,0,ENG,NA,6,NA,2535,Standard Met,3,2544,Standard Met,3,Near Standard,Near Standard,Near Standard,216,75,5,6,219,222,224,85,8,Yes,1,226,84,10,2,Yes,1
+2017,M,Hispanic or Latino,N,0,N,0,ENG,NA,6,NA,2425,Standard Not Met,1,2539,Standard Met,3,Near Standard,Near Standard,Near Standard,197,28,7,11,202,208,197,21,0,No,0,211,49,14,14,Yes,1
+2017,M,Hispanic or Latino,N,0,N,0,ENG,NA,6,NA,2433,Standard Not Met,1,2546,Standard Met,3,Above Standard,Near Standard,Near Standard,177,3,10,15,185,192,196,19,19,Yes,1,208,41,31,12,Yes,1
+2017,M,Hispanic or Latino,N,0,N,0,ENG,NA,6,NA,2504,Standard Met,3,2493,Standard Nearly Met,2,Near Standard,Near Standard,Near Standard,199,33,7,11,204,210,214,63,15,Yes,1,212,51,13,-2,Yes,1
+2017,M,Asian,N,0,N,0,ENG,NA,6,NA,2443,Standard Nearly Met,2,2510,Standard Nearly Met,2,Near Standard,Below Standard,Near Standard,199,33,7,11,204,210,200,27,1,No,0,212,51,13,12,Yes,1
+2017,M,Asian,N,0,N,0,PAN,EARLY ADVANCED,4,NA,2500,Standard Nearly Met,2,2545,Standard Met,3,Above Standard,Near Standard,Near Standard,202,40,7,11,207,213,211,56,9,Yes,1,217,64,15,6,Yes,1
+2017,M,Hispanic or Latino,N,0,N,0,PHI,NA,6,NA,2551,Standard Met,3,2634,Standard Exceeded,4,Above Standard,Above Standard,Above Standard,213,69,5,8,217,221,218,73,5,Yes,1,225,82,12,7,Yes,1
+2017,F,Hispanic or Latino,Y,1,Y,1,SPA,ADVANCED,5,NA,2653,Standard Exceeded,4,2638,Standard Exceeded,4,Above Standard,Above Standard,Above Standard,227,92,3,4,229,231,225,86,-2,No,0,233,93,6,8,Yes,1
+2017,F,Hispanic or Latino,Y,1,N,0,SPA,ADVANCED,5,NA,2606,Standard Exceeded,4,2599,Standard Exceeded,4,Above Standard,Above Standard,Near Standard,216,75,5,6,219,222,228,90,12,Yes,1,230,90,14,2,Yes,1
+2017,F,Hispanic or Latino,N,0,N,0,SPA,NA,6,NA,2617,Standard Exceeded,4,2669,Standard Exceeded,4,Above Standard,Above Standard,Above Standard,224,89,3,4,226,228,233,95,9,Yes,1,229,88,5,-4,Yes,1
+2017,M,Hispanic or Latino,N,0,Y,1,SPA,NA,6,NA,2584,Standard Exceeded,4,2635,Standard Exceeded,4,Above Standard,Above Standard,Near Standard,219,81,4,5,222,224,230,92,11,Yes,1,231,91,12,1,Yes,1
+2017,M,Hispanic or Latino,Y,1,Y,1,SPA,EARLY ADVANCED,4,NA,2523,Standard Met,3,2619,Standard Exceeded,4,Above Standard,Near Standard,Above Standard,208,56,6,9,213,217,207,45,-1,No,0,223,78,15,16,Yes,1
+2017,F,Hispanic or Latino,Y,1,Y,1,SPA,EARLY ADVANCED,4,NA,2534,Standard Met,3,2582,Standard Exceeded,4,Above Standard,Near Standard,Near Standard,208,56,6,9,213,217,221,79,13,Yes,1,220,72,12,-1,Yes,1
+2017,M,Hispanic or Latino,N,0,N,0,SPA,NA,6,NA,2553,Standard Met,3,2602,Standard Exceeded,4,Above Standard,Above Standard,Near Standard,211,64,5,8,215,219,223,83,12,Yes,1,219,69,8,-4,Yes,1
+2017,F,Hispanic or Latino,N,0,N,0,SPA,NA,6,NA,2578,Standard Met,3,2649,Standard Exceeded,4,Above Standard,Above Standard,Above Standard,214,71,5,8,218,222,233,95,19,Yes,1,224,80,10,-9,Yes,1
+2017,M,Hispanic or Latino,N,0,Y,1,SPA,NA,6,NA,2569,Standard Met,3,2621,Standard Exceeded,4,Above Standard,Above Standard,Above Standard,220,83,4,5,223,225,229,91,9,Yes,1,232,92,12,3,Yes,1
+2017,M,Hispanic or Latino,Y,1,Y,1,SPA,ADVANCED,5,NA,2495,Standard Nearly Met,2,2643,Standard Exceeded,4,Above Standard,Above Standard,Above Standard,192,18,8,12,198,204,197,21,5,No,0,210,46,18,13,Yes,1
+2017,F,Hispanic or Latino,N,0,N,0,SPA,NA,6,NA,2600,Standard Exceeded,4,2573,Standard Met,3,Above Standard,Near Standard,Near Standard,225,90,3,4,227,229,232,94,7,Yes,1,230,90,5,-2,Yes,1
+2017,F,Hispanic or Latino,N,0,N,0,SPA,ADVANCED,5,NA,2531,Standard Met,3,2563,Standard Met,3,Near Standard,Near Standard,Near Standard,207,53,6,9,212,216,223,83,16,Yes,1,220,72,13,-3,Yes,1
+2017,F,Hispanic or Latino,Y,1,N,0,SPA,INTERMEDIATE,3,NA,2526,Standard Met,3,2553,Standard Met,3,Above Standard,Near Standard,Near Standard,201,38,7,11,206,212,208,47,7,Yes,1,216,62,15,8,Yes,1
+2017,F,Hispanic or Latino,Y,1,Y,1,SPA,INTERMEDIATE,3,NA,2550,Standard Met,3,2577,Standard Met,3,Above Standard,Near Standard,Above Standard,200,35,7,11,205,211,212,58,12,Yes,1,217,64,17,5,Yes,1
+2017,F,Hispanic or Latino,N,0,Y,1,SPA,NA,6,NA,2502,Standard Met,3,2537,Standard Met,3,Near Standard,Near Standard,Near Standard,197,28,7,11,202,208,207,45,10,Yes,1,214,57,17,7,Yes,1
+2017,M,Hispanic or Latino,N,0,Y,1,SPA,NA,6,NA,2503,Standard Met,3,2574,Standard Met,3,Above Standard,Near Standard,Near Standard,215,73,5,8,219,223,221,79,6,Yes,1,225,82,10,4,Yes,1
+2017,F,Hispanic or Latino,N,0,Y,1,SPA,NA,6,NA,2492,Standard Nearly Met,2,2534,Standard Met,3,Near Standard,Near Standard,Near Standard,219,81,4,5,222,224,218,73,-1,No,0,224,80,5,6,Yes,1
+2017,F,Hispanic or Latino,N,0,N,0,SPA,EARLY ADVANCED,4,NA,2482,Standard Nearly Met,2,2530,Standard Met,3,Near Standard,Near Standard,Near Standard,184,8,9,14,191,198,215,64,31,Yes,1,209,43,25,-6,Yes,1
+2017,M,Hispanic or Latino,Y,1,N,0,SPA,INTERMEDIATE,3,NA,2490,Standard Nearly Met,2,2534,Standard Met,3,Above Standard,Near Standard,Near Standard,196,26,7,11,201,207,211,56,15,Yes,1,208,41,12,-3,Yes,1
+2017,F,Hispanic or Latino,N,0,N,0,SPA,NA,6,NA,2530,Standard Met,3,2516,Standard Nearly Met,2,Near Standard,Near Standard,Near Standard,213,69,5,8,217,221,220,77,7,Yes,1,222,76,9,2,Yes,1
+2017,F,Hispanic or Latino,Y,1,Y,1,SPA,ADVANCED,5,NA,2492,Standard Nearly Met,2,2514,Standard Nearly Met,2,Near Standard,Near Standard,Near Standard,203,43,6,9,208,212,209,50,6,Yes,1,213,54,10,4,Yes,1
+2017,M,Hispanic or Latino,Y,1,Y,1,SPA,INTERMEDIATE,3,NA,2366,Standard Not Met,1,2524,Standard Nearly Met,2,Near Standard,Near Standard,Near Standard,181,5,10,15,189,196,188,8,7,No,0,201,24,20,13,Yes,1
+2017,M,Hispanic or Latino,Y,1,N,0,SPA,EARLY INTERMEDIATE,2,NA,2440,Standard Not Met,1,2499,Standard Nearly Met,2,Near Standard,Below Standard,Near Standard,190,15,8,12,196,202,197,21,7,Yes,1,209,43,19,12,Yes,1
+2017,M,Hispanic or Latino,Y,1,Y,1,SPA,INTERMEDIATE,3,NA,2412,Standard Not Met,1,2488,Standard Nearly Met,2,Near Standard,Below Standard,Near Standard,173,2,11,17,181,190,187,7,14,Yes,1,204,31,31,17,Yes,1
+2017,M,Hispanic or Latino,Y,1,Y,1,SPA,EARLY INTERMEDIATE,2,SLD,2363,Standard Not Met,1,2390,Standard Not Met,1,Below Standard,Below Standard,Near Standard,161,1,13,20,171,181,172,1,11,Yes,1,191,8,30,19,Yes,1
+2017,M,Hispanic or Latino,Y,1,Y,1,SPA,EARLY INTERMEDIATE,2,NA,2342,Standard Not Met,1,2372,Standard Not Met,1,Below Standard,Below Standard,Below Standard,170,1,11,17,178,187,180,2,10,Yes,1,191,8,21,11,Yes,1
+2017,F,Asian,N,0,N,0,VIE,NA,6,NA,2603,Standard Exceeded,4,2606,Standard Exceeded,4,Above Standard,Near Standard,Above Standard,224,89,3,4,226,228,220,77,-4,No,0,229,88,5,9,Yes,1
+2017,F,Asian,N,0,N,0,VIE,NA,6,NA,2701,Standard Exceeded,4,2700,Standard Exceeded,4,Above Standard,Above Standard,Above Standard,226,91,3,4,228,230,231,93,5,Yes,1,236,95,10,5,Yes,1
+2017,F,Asian,N,0,Y,1,VIE,NA,6,NA,2663,Standard Exceeded,4,2656,Standard Exceeded,4,Above Standard,Above Standard,Near Standard,226,91,3,4,228,230,235,96,9,Yes,1,230,90,4,-5,Yes,1
+2017,M,Asian,N,0,N,0,VIE,EARLY ADVANCED,4,AUT,2543,Standard Met,3,2675,Standard Exceeded,4,Above Standard,Above Standard,Above Standard,207,53,6,9,212,216,217,71,10,Yes,1,222,76,15,5,Yes,1
+2017,F,Asian,N,0,N,0,VIE,NA,6,NA,2561,Standard Met,3,2610,Standard Exceeded,4,Above Standard,Above Standard,Above Standard,215,73,5,8,219,223,226,88,11,Yes,1,223,78,8,-3,Yes,1
+2017,F,Asian,Y,1,N,0,VIE,INTERMEDIATE,3,NA,2517,Standard Met,3,2507,Standard Nearly Met,2,Near Standard,Near Standard,Below Standard,203,43,6,9,208,212,212,58,9,Yes,1,222,76,19,10,Yes,1
+2018,M,Hispanic or Latino,N,0,Y,1,ENG,NA,6,NA,2599,Standard Exceeded,4,2588,Standard Exceeded,4,Above Standard,Near Standard,Near Standard,212,54,11,17,220,229,215,48,3,No,0,221,48,9,6,N,0
+2018,M,Hispanic or Latino,N,0,Y,1,ENG,NA,6,NA,2582,Standard Exceeded,4,2633,Standard Exceeded,4,Above Standard,Above Standard,Near Standard,217,67,11,17,225,234,227,77,10,Yes,1,232,74,15,5,N,0
+2018,M,Hispanic or Latino,N,0,Y,1,ENG,NA,6,NA,2545,Standard Met,3,2587,Standard Exceeded,4,Above Standard,Near Standard,Above Standard,214,59,11,17,222,231,219,58,5,No,0,226,60,12,7,N,0
+2018,M,Hispanic or Latino,N,0,Y,1,ENG,NA,6,NA,2551,Standard Met,3,2624,Standard Exceeded,4,Above Standard,Above Standard,Near Standard,228,88,11,14,235,242,231,84,3,No,0,234,78,6,3,N,0
+2018,M,Hispanic or Latino,N,0,N,0,ENG,NA,6,OHI,2447,Standard Nearly Met,2,2519,Standard Nearly Met,2,Near Standard,Near Standard,Near Standard,199,21,11,22,210,221,207,28,8,No,0,210,24,11,3,N,0
+2018,M,Native Hawaiian or Pacific Islander,N,0,Y,1,ENG,NA,6,NA,2272,Standard Not Met,1,2343,Standard Not Met,1,Below Standard,Below Standard,Below Standard,192,10,11,22,203,214,200,15,8,No,0,179,1,-13,-21,N,0
+2018,M,Hispanic or Latino,N,0,Y,1,ENG,NA,6,NA,2342,Standard Not Met,1,2417,Standard Not Met,1,Below Standard,Below Standard,Below Standard,176,1,11,22,187,198,192,6,16,Yes,1,193,4,17,1,N,0
+2018,F,Hispanic or Latino,N,0,Y,1,SPA,NA,6,NA,2651,Standard Exceeded,4,2583,Standard Exceeded,4,Above Standard,Above Standard,Near Standard,212,54,11,17,220,229,215,48,3,No,0,227,63,15,12,N,0
+2018,M,Hispanic or Latino,N,0,Y,1,SPA,NA,6,NA,2683,Standard Exceeded,4,2614,Standard Exceeded,4,Above Standard,Above Standard,Near Standard,225,84,11,14,232,239,229,81,4,No,0,237,83,12,8,N,0
+2018,M,Hispanic or Latino,N,0,Y,1,SPA,NA,6,NA,2591,Standard Exceeded,4,2639,Standard Exceeded,4,Above Standard,Above Standard,Above Standard,230,91,11,14,237,244,231,84,1,No,0,238,84,8,7,N,0
+2018,M,Hispanic or Latino,N,0,Y,1,SPA,NA,6,NA,2603,Standard Exceeded,4,2700,Standard Exceeded,4,Above Standard,Above Standard,Above Standard,231,92,11,14,238,245,235,90,4,No,0,244,91,13,9,N,0
+2018,F,Hispanic or Latino,N,0,Y,1,SPA,EARLY ADVANCED,4,NA,2522,Standard Met,3,2601,Standard Exceeded,4,Above Standard,Near Standard,Near Standard,210,48,11,19,220,229,215,48,5,No,0,226,60,16,11,N,0
+2018,F,Hispanic or Latino,Y,1,Y,1,SPA,INTERMEDIATE,3,NA,2512,Standard Met,3,2616,Standard Exceeded,4,Above Standard,Above Standard,Above Standard,217,67,11,17,225,234,217,53,0,No,0,231,72,14,14,N,0
+2018,F,Hispanic or Latino,N,0,Y,1,SPA,NA,6,NA,2573,Standard Met,3,2619,Standard Exceeded,4,Above Standard,Above Standard,Near Standard,220,74,11,17,228,237,223,68,3,No,0,227,63,7,4,N,0
+2018,M,Hispanic or Latino,N,0,Y,1,SPA,EARLY INTERMEDIATE,2,NA,2530,Standard Met,3,2624,Standard Exceeded,4,Above Standard,Above Standard,Above Standard,220,74,11,17,228,237,231,84,11,Yes,1,230,70,10,-1,N,0
+2018,M,Hispanic or Latino,N,0,Y,1,SPA,NA,6,NA,2505,Standard Met,3,2581,Standard Exceeded,4,Above Standard,Above Standard,Near Standard,213,56,11,17,221,230,223,68,10,Yes,1,227,63,14,4,N,0
+2018,F,Hispanic or Latino,Y,1,Y,1,SPA,EARLY ADVANCED,4,NA,2447,Standard Nearly Met,2,2588,Standard Exceeded,4,Above Standard,Near Standard,Near Standard,218,69,11,17,226,235,220,61,2,No,0,232,74,14,12,N,0
+2018,M,Hispanic or Latino,Y,1,Y,1,SPA,EARLY ADVANCED,4,NA,2546,Standard Met,3,2528,Standard Met,3,Near Standard,Near Standard,Near Standard,213,56,11,17,221,230,211,37,-2,No,0,225,58,12,14,N,0
+2018,F,Hispanic or Latino,N,0,Y,1,SPA,INTERMEDIATE,3,NA,2565,Standard Met,3,2532,Standard Met,3,Near Standard,Near Standard,Near Standard,210,48,11,19,220,229,217,53,7,No,0,220,46,10,3,N,0
+2018,M,Hispanic or Latino,Y,1,Y,1,SPA,INTERMEDIATE,3,NA,2535,Standard Met,3,2536,Standard Met,3,Above Standard,Near Standard,Near Standard,205,35,11,19,215,224,213,43,8,No,0,219,43,14,6,N,0
+2018,M,Hispanic or Latino,Y,1,Y,1,SPA,INTERMEDIATE,3,NA,2528,Standard Met,3,2547,Standard Met,3,Near Standard,Near Standard,Near Standard,202,28,11,19,212,221,216,51,14,Yes,1,220,46,18,4,N,0
+2018,M,Hispanic or Latino,N,0,Y,1,SPA,EARLY ADVANCED,4,NA,2498,Standard Nearly Met,2,2529,Standard Met,3,Near Standard,Near Standard,Near Standard,221,76,11,14,228,235,225,73,4,No,0,231,72,10,6,N,0
+2018,F,Hispanic or Latino,Y,1,Y,1,SPA,EARLY ADVANCED,4,NA,2452,Standard Nearly Met,2,2530,Standard Met,3,Near Standard,Near Standard,Near Standard,203,30,11,19,213,222,214,45,11,Yes,1,214,32,11,0,N,0
+2018,M,Hispanic or Latino,Y,1,Y,1,SPA,EARLY ADVANCED,4,NA,2500,Standard Nearly Met,2,2559,Standard Met,3,Above Standard,Near Standard,Near Standard,214,59,11,17,222,231,223,68,9,Yes,1,226,60,12,3,N,0
+2018,M,Hispanic or Latino,Y,1,Y,1,SPA,INTERMEDIATE,3,NA,2477,Standard Nearly Met,2,2530,Standard Met,3,Near Standard,Near Standard,Near Standard,211,51,11,17,219,228,226,75,15,Yes,1,225,58,14,-1,N,0
+2018,F,Hispanic or Latino,Y,1,Y,1,SPA,INTERMEDIATE,3,NA,2441,Standard Not Met,1,2545,Standard Met,3,Above Standard,Near Standard,Near Standard,198,19,11,22,209,220,195,8,-3,No,0,208,20,10,13,N,0
+2018,M,Hispanic or Latino,Y,1,Y,1,SPA,EARLY INTERMEDIATE,2,NA,2417,Standard Not Met,1,2530,Standard Met,3,Near Standard,Near Standard,Near Standard,201,25,11,19,211,220,212,40,11,Yes,1,214,32,13,2,N,0
+2018,F,Hispanic or Latino,Y,1,Y,1,SPA,INTERMEDIATE,3,NA,2422,Standard Not Met,1,2539,Standard Met,3,Near Standard,Near Standard,Near Standard,197,17,11,22,208,219,208,30,11,Yes,1,218,41,21,10,N,0
+2018,F,Hispanic or Latino,Y,1,Y,1,SPA,EARLY ADVANCED,4,NA,2485,Standard Nearly Met,2,2525,Standard Nearly Met,2,Above Standard,Below Standard,Near Standard,206,37,11,19,216,225,210,35,4,No,0,222,51,16,12,N,0
+2018,M,Hispanic or Latino,Y,1,Y,1,SPA,INTERMEDIATE,3,NA,2448,Standard Nearly Met,2,2457,Standard Nearly Met,2,Below Standard,Below Standard,Below Standard,206,37,11,19,216,225,213,43,7,No,0,211,26,5,-2,N,0
+2018,F,Hispanic or Latino,Y,1,Y,1,SPA,INTERMEDIATE,3,NA,2487,Standard Nearly Met,2,2476,Standard Nearly Met,2,Near Standard,Near Standard,Below Standard,204,32,11,19,214,223,201,16,-3,No,0,212,28,8,11,N,0
+2018,F,Hispanic or Latino,Y,1,Y,1,SPA,INTERMEDIATE,3,NA,2494,Standard Nearly Met,2,2492,Standard Nearly Met,2,Near Standard,Below Standard,Below Standard,200,23,11,22,211,222,214,45,14,Yes,1,221,48,21,7,N,0
+2018,M,Hispanic or Latino,Y,1,Y,1,SPA,EARLY ADVANCED,4,SLD,2416,Standard Not Met,1,2506,Standard Nearly Met,2,Near Standard,Near Standard,Near Standard,204,32,11,19,214,223,207,28,3,No,0,214,32,10,7,N,0
+2018,M,Hispanic or Latino,Y,1,Y,1,SPA,INTERMEDIATE,3,NA,2407,Standard Not Met,1,2457,Standard Nearly Met,2,Near Standard,Below Standard,Near Standard,209,45,11,19,219,228,215,48,6,No,0,212,28,3,-3,N,0
+2018,M,Hispanic or Latino,Y,1,Y,1,SPA,INTERMEDIATE,3,NA,2318,Standard Not Met,1,2489,Standard Nearly Met,2,Near Standard,Below Standard,Near Standard,202,28,11,19,212,221,213,43,11,Yes,1,211,26,9,-2,N,0
+2018,M,Hispanic or Latino,Y,1,Y,1,SPA,INTERMEDIATE,3,NA,2486,Standard Nearly Met,2,2447,Standard Not Met,1,Near Standard,Below Standard,Below Standard,198,19,11,22,209,220,203,20,5,No,0,210,24,12,7,N,0
+2018,F,Hispanic or Latino,Y,1,Y,1,SPA,BEGINNING,1,SLD,2352,Standard Not Met,1,2452,Standard Not Met,1,Below Standard,Below Standard,Below Standard,180,2,11,22,191,202,188,3,8,No,0,197,6,17,9,N,0
+2018,M,Hispanic or Latino,Y,1,Y,1,SPA,EARLY ADVANCED,4,NA,2331,Standard Not Met,1,2418,Standard Not Met,1,Below Standard,Below Standard,Below Standard,187,5,11,22,198,209,195,8,8,No,0,194,4,7,-1,N,0
+2018,M,Hispanic or Latino,Y,1,Y,1,SPA,EARLY INTERMEDIATE,2,NA,2279,Standard Not Met,1,2452,Standard Not Met,1,Near Standard,Below Standard,Below Standard,189,7,11,22,200,211,197,11,8,No,0,203,12,14,6,N,0
+2018,M,Hispanic or Latino,Y,1,Y,1,SPA,EARLY INTERMEDIATE,2,NA,2401,Standard Not Met,1,2423,Standard Not Met,1,Below Standard,Below Standard,Below Standard,200,23,11,22,211,222,203,20,3,No,0,210,24,10,7,N,0
+2018,F,Hispanic or Latino,Y,1,Y,1,SPA,EARLY INTERMEDIATE,2,SLD,2389,Standard Not Met,1,2451,Standard Not Met,1,Below Standard,Near Standard,Below Standard,177,1,11,22,188,199,190,4,13,Yes,1,185,3,8,-5,N,0
+2018,M,Asian,N,0,Y,1,VIE,INTERMEDIATE,3,NA,2589,Standard Exceeded,4,2638,Standard Exceeded,4,Above Standard,Above Standard,Near Standard,224,82,11,14,231,238,222,66,-2,No,0,236,81,12,14,N,0
+2018,F,Asian,N,0,N,0,VIE,NA,6,NA,2643,Standard Exceeded,4,2624,Standard Exceeded,4,Above Standard,Above Standard,Above Standard,231,92,11,14,238,245,233,87,2,No,0,242,89,11,9,N,0
+2018,F,Asian,N,0,Y,1,VIE,NA,6,NA,2668,Standard Exceeded,4,2611,Standard Exceeded,4,Above Standard,Above Standard,Near Standard,228,88,11,14,235,242,232,86,4,No,0,241,88,13,9,N,0
+2018,F,Asian,N,0,Y,1,VIE,NA,6,NA,2610,Standard Exceeded,4,2693,Standard Exceeded,4,Above Standard,Above Standard,Above Standard,236,96,11,14,243,250,244,97,8,Yes,1,245,92,9,1,N,0
+2018,F,Asian,N,0,Y,1,VIE,EARLY ADVANCED,4,NA,2555,Standard Met,3,2700,Standard Exceeded,4,Above Standard,Above Standard,Above Standard,240,98,11,14,247,254,236,91,-4,No,0,249,95,9,13,N,0
+2018,F,Asian,N,0,N,0,VIE,NA,6,NA,2505,Standard Met,3,2598,Standard Exceeded,4,Above Standard,Near Standard,Near Standard,219,71,11,17,227,236,223,68,4,No,0,232,74,13,9,N,0
+2018,M,Asian,Y,1,Y,1,VIE,INTERMEDIATE,3,NA,2466,Standard Nearly Met,2,2504,Standard Nearly Met,2,Near Standard,Near Standard,Below Standard,206,37,11,19,216,225,213,43,7,No,0,216,36,10,3,N,0
+2018,F,Hispanic or Latino,Y,1,Y,1,SPA,EARLY ADVANCED,4,NA,2667,Standard Exceeded,4,2627,Standard Exceeded,4,Above Standard,Above Standard,Near Standard,230,91,11,14,237,244,235,90,5,No,0,245,92,15,10,Y,1
+2018,M,Hispanic or Latino,N,0,Y,1,SPA,EARLY ADVANCED,4,NA,2541,Standard Met,3,2594,Standard Exceeded,4,Above Standard,Near Standard,Near Standard,216,64,11,17,224,233,234,89,18,Yes,1,234,78,18,0,Y,1
+2018,F,Hispanic or Latino,N,0,Y,1,SPA,NA,6,NA,2568,Standard Met,3,2563,Standard Met,3,Near Standard,Near Standard,Near Standard,210,48,11,19,220,229,219,58,9,No,0,229,67,19,10,Y,1
+2018,F,Hispanic or Latino,Y,1,Y,1,SPA,INTERMEDIATE,3,NA,2498,Standard Nearly Met,2,2540,Standard Met,3,Near Standard,Near Standard,Near Standard,199,21,11,22,210,221,221,63,22,Yes,1,221,48,22,0,Y,1
+2018,M,Hispanic or Latino,Y,1,Y,1,SPA,EARLY INTERMEDIATE,2,NA,2452,Standard Nearly Met,2,2525,Standard Nearly Met,2,Near Standard,Near Standard,Near Standard,213,56,11,17,221,230,220,61,7,No,0,230,70,17,10,Y,1
+2018,M,Asian,N,0,Y,1,VIE,NA,6,NA,2556,Standard Met,3,2700,Standard Exceeded,4,Above Standard,Above Standard,Above Standard,221,76,11,14,228,235,236,91,15,Yes,1,245,92,24,9,Y,1
+2018,F,White,N,0,N,0,ENG,NA,6,NA,2701,Standard Exceeded,4,2700,Standard Exceeded,4,Above Standard,Above Standard,Above Standard,241,98,11,14,248,255,254,99,13,Yes,1,263,99,22,9,Y,1
+2018,M,Hispanic or Latino,N,0,Y,1,ENG,ADVANCED,5,NA,2570,Standard Met,3,2657,Standard Exceeded,4,Above Standard,Above Standard,Above Standard,226,85,11,14,233,240,227,77,1,No,0,246,93,20,19,Y,1
+2018,M,Hispanic or Latino,N,0,Y,1,ENG,NA,6,NA,2523,Standard Met,3,2642,Standard Exceeded,4,Above Standard,Above Standard,Above Standard,211,51,11,17,219,228,215,48,4,No,0,235,79,24,20,Y,1
+2018,M,Hispanic or Latino,N,0,N,0,ENG,NA,6,AUT,2494,Standard Nearly Met,2,2543,Standard Met,3,Above Standard,Near Standard,Near Standard,201,25,11,19,211,220,207,28,6,No,0,224,56,23,17,Y,1
+2018,F,Hispanic or Latino,N,0,Y,1,ENG,NA,6,NA,2503,Standard Met,3,2497,Standard Nearly Met,2,Near Standard,Near Standard,Near Standard,205,35,11,19,215,224,216,51,11,Yes,1,224,56,19,8,Y,1
+2018,M,Hispanic or Latino,N,0,Y,1,ENG,NA,6,NA,2462,Standard Nearly Met,2,2481,Standard Nearly Met,2,Below Standard,Near Standard,Near Standard,196,16,11,22,207,218,214,45,18,Yes,1,216,36,20,2,Y,1
+2018,F,Asian,N,0,N,0,MKH,NA,6,NA,2590,Standard Exceeded,4,2698,Standard Exceeded,4,Above Standard,Above Standard,Above Standard,233,94,11,14,240,247,244,97,11,Yes,1,257,98,24,13,Y,1
+2018,F,Hispanic or Latino,N,0,Y,1,POR,NA,6,NA,2591,Standard Exceeded,4,2627,Standard Exceeded,4,Above Standard,Near Standard,Above Standard,232,93,11,14,239,246,233,87,1,No,0,242,89,10,9,Y,1
+2018,F,Hispanic or Latino,N,0,Y,1,SPA,NA,6,NA,2644,Standard Exceeded,4,2637,Standard Exceeded,4,Above Standard,Above Standard,Above Standard,226,85,11,14,233,240,228,79,2,No,0,245,92,19,17,Y,1
+2018,M,Hispanic or Latino,N,0,Y,1,SPA,NA,6,NA,2599,Standard Exceeded,4,2637,Standard Exceeded,4,Above Standard,Above Standard,Above Standard,222,78,11,14,229,236,222,66,0,No,0,248,95,26,26,Y,1
+2018,M,Hispanic or Latino,N,0,N,0,SPA,ADVANCED,5,NA,2663,Standard Exceeded,4,2700,Standard Exceeded,4,Above Standard,Above Standard,Above Standard,242,98,11,14,249,256,252,99,10,Yes,1,272,99,30,20,Y,1
+2018,F,Hispanic or Latino,N,0,Y,1,SPA,ADVANCED,5,NA,2617,Standard Exceeded,4,2700,Standard Exceeded,4,Above Standard,Above Standard,Above Standard,235,95,11,14,242,249,249,99,14,Yes,1,250,96,15,1,Y,1
+2018,F,Hispanic or Latino,N,0,Y,1,SPA,EARLY ADVANCED,4,NA,2701,Standard Exceeded,4,2700,Standard Exceeded,4,Above Standard,Above Standard,Above Standard,243,99,11,14,250,257,252,99,9,Yes,1,257,98,14,5,Y,1
+2018,M,Hispanic or Latino,N,0,Y,1,SPA,NA,6,NA,2598,Standard Exceeded,4,2624,Standard Exceeded,4,Above Standard,Above Standard,Above Standard,215,62,11,17,223,232,231,84,16,Yes,1,234,78,19,3,Y,1
+2018,F,Hispanic or Latino,N,0,Y,1,SPA,NA,6,NA,2655,Standard Exceeded,4,2647,Standard Exceeded,4,Above Standard,Above Standard,Above Standard,222,78,11,14,229,236,233,87,11,Yes,1,245,92,23,12,Y,1
+2018,M,Hispanic or Latino,N,0,Y,1,SPA,NA,6,NA,2646,Standard Exceeded,4,2620,Standard Exceeded,4,Above Standard,Near Standard,Above Standard,226,85,11,14,233,240,242,96,16,Yes,1,253,97,27,11,Y,1
+2018,M,Hispanic or Latino,N,0,Y,1,SPA,NA,6,NA,2658,Standard Exceeded,4,2700,Standard Exceeded,4,Above Standard,Above Standard,Above Standard,235,95,11,14,242,249,245,97,10,Yes,1,256,98,21,11,Y,1
+2018,M,Hispanic or Latino,N,0,Y,1,SPA,EARLY ADVANCED,4,NA,2532,Standard Met,3,2623,Standard Exceeded,4,Above Standard,Above Standard,Near Standard,223,80,11,14,230,237,229,81,6,No,0,245,92,22,16,Y,1
+2018,F,Hispanic or Latino,Y,1,Y,1,SPA,INTERMEDIATE,3,NA,2527,Standard Met,3,2608,Standard Exceeded,4,Above Standard,Above Standard,Near Standard,209,45,11,19,219,228,216,51,7,No,0,231,72,22,15,Y,1
+2018,M,Hispanic or Latino,N,0,Y,1,SPA,NA,6,NA,2555,Standard Met,3,2603,Standard Exceeded,4,Above Standard,Above Standard,Above Standard,211,51,11,17,219,228,218,56,7,No,0,237,83,26,19,Y,1
+2018,M,Hispanic or Latino,N,0,Y,1,SPA,NA,6,NA,2552,Standard Met,3,2692,Standard Exceeded,4,Above Standard,Above Standard,Above Standard,219,71,11,17,227,236,226,75,7,No,0,238,84,19,12,Y,1
+2018,M,Hispanic or Latino,Y,1,Y,1,SPA,BEGINNING,1,NA,2539,Standard Met,3,2599,Standard Exceeded,4,Above Standard,Near Standard,Above Standard,212,54,11,17,220,229,220,61,8,Yes,1,242,89,30,22,Y,1
+2018,M,Hispanic or Latino,N,0,N,0,SPA,EARLY ADVANCED,4,NA,2579,Standard Met,3,2599,Standard Exceeded,4,Above Standard,Near Standard,Above Standard,215,62,11,17,223,232,229,81,14,Yes,1,242,89,27,13,Y,1
+2018,F,Hispanic or Latino,N,0,Y,1,SPA,EARLY ADVANCED,4,NA,2556,Standard Met,3,2599,Standard Exceeded,4,Above Standard,Near Standard,Above Standard,211,51,11,17,219,228,221,63,10,Yes,1,233,76,22,12,Y,1
+2018,F,Hispanic or Latino,Y,1,Y,1,SPA,INTERMEDIATE,3,NA,2520,Standard Met,3,2626,Standard Exceeded,4,Above Standard,Above Standard,Near Standard,206,37,11,19,216,225,220,61,14,Yes,1,230,70,24,10,Y,1
+2018,M,Hispanic or Latino,Y,1,Y,1,SPA,INTERMEDIATE,3,NA,2532,Standard Met,3,2606,Standard Exceeded,4,Above Standard,Above Standard,Near Standard,225,84,11,14,232,239,244,97,19,Yes,1,246,93,21,2,Y,1
+2018,F,Hispanic or Latino,N,0,Y,1,SPA,NA,6,NA,2508,Standard Met,3,2630,Standard Exceeded,4,Above Standard,Above Standard,Near Standard,217,67,11,17,225,234,232,86,15,Yes,1,237,83,20,5,Y,1
+2018,F,Hispanic or Latino,N,0,Y,1,SPA,NA,6,NA,2589,Standard Exceeded,4,2564,Standard Met,3,Above Standard,Near Standard,Above Standard,223,80,11,14,230,237,228,79,5,No,0,240,87,17,12,Y,1
+2018,F,Hispanic or Latino,N,0,Y,1,SPA,NA,6,NA,2591,Standard Exceeded,4,2550,Standard Met,3,Near Standard,Near Standard,Near Standard,195,14,11,22,206,217,209,33,14,Yes,1,230,70,35,21,Y,1
+2018,M,Hispanic or Latino,Y,1,Y,1,SPA,EARLY ADVANCED,4,NA,2502,Standard Met,3,2560,Standard Met,3,Above Standard,Near Standard,Below Standard,207,40,11,19,217,226,215,48,8,No,0,224,56,17,9,Y,1
+2018,F,Hispanic or Latino,Y,1,N,0,SPA,INTERMEDIATE,3,NA,2540,Standard Met,3,2563,Standard Met,3,Above Standard,Near Standard,Near Standard,219,71,11,17,227,236,224,71,5,No,0,241,88,22,17,Y,1
+2018,M,Hispanic or Latino,N,0,Y,1,SPA,NA,6,NA,2545,Standard Met,3,2576,Standard Met,3,Above Standard,Near Standard,Near Standard,210,48,11,19,220,229,218,56,8,No,0,231,72,21,13,Y,1
+2018,M,Hispanic or Latino,N,0,Y,1,SPA,NA,6,NA,2559,Standard Met,3,2574,Standard Met,3,Above Standard,Near Standard,Near Standard,222,78,11,14,229,236,231,84,9,Yes,1,237,83,15,6,Y,1
+2018,F,Hispanic or Latino,Y,1,Y,1,SPA,INTERMEDIATE,3,NA,2567,Standard Met,3,2507,Standard Nearly Met,2,Near Standard,Near Standard,Near Standard,209,45,11,19,219,228,209,33,0,No,0,222,51,13,13,Y,1
+2018,M,Hispanic or Latino,Y,1,Y,1,SPA,BEGINNING,1,SLD,2300,Standard Not Met,1,2429,Standard Not Met,1,Below Standard,Below Standard,Below Standard,164,1,11,22,175,186,174,1,10,No,0,197,6,33,23,Y,1
+2018,F,Hispanic or Latino,Y,1,Y,1,SPA,EARLY INTERMEDIATE,2,SLD,2306,Standard Not Met,1,2380,Standard Not Met,1,Below Standard,Below Standard,Below Standard,178,1,11,22,189,200,190,4,12,Yes,1,204,14,26,14,Y,1
+2018,F,Asian,N,0,Y,1,VIE,NA,6,NA,2643,Standard Exceeded,4,2596,Standard Exceeded,4,Above Standard,Near Standard,Above Standard,226,85,11,14,233,240,227,77,1,No,0,240,87,14,13,Y,1
+2018,F,Asian,N,0,Y,1,VIE,NA,6,NA,2640,Standard Exceeded,4,2657,Standard Exceeded,4,Above Standard,Above Standard,Above Standard,230,91,11,14,237,244,231,84,1,No,0,248,95,18,17,Y,1
+2018,M,Asian,N,0,Y,1,VIE,NA,6,NA,2698,Standard Exceeded,4,2682,Standard Exceeded,4,Above Standard,Above Standard,Near Standard,249,99,11,14,256,263,251,99,2,No,0,274,99,25,23,Y,1
+2018,F,Asian,N,0,Y,1,VIE,ADVANCED,5,NA,2650,Standard Exceeded,4,2678,Standard Exceeded,4,Above Standard,Above Standard,Above Standard,231,92,11,14,238,245,242,96,11,Yes,1,252,97,21,10,Y,1
+2018,F,Asian,N,0,Y,1,VIE,EARLY ADVANCED,4,NA,2664,Standard Exceeded,4,2613,Standard Exceeded,4,Above Standard,Above Standard,Near Standard,224,82,11,14,231,238,231,84,7,Yes,1,240,87,16,9,Y,1
+2018,F,Asian,N,0,Y,1,VIE,NA,6,NA,2641,Standard Exceeded,4,2657,Standard Exceeded,4,Above Standard,Above Standard,Above Standard,217,67,11,17,225,234,233,87,16,Yes,1,243,91,26,10,Y,1
+2018,M,Asian,N,0,Y,1,VIE,NA,6,NA,2652,Standard Exceeded,4,2700,Standard Exceeded,4,Above Standard,Above Standard,Near Standard,233,94,11,14,240,247,240,95,7,Yes,1,247,94,14,7,Y,1
+2018,M,Hispanic or Latino,N,0,Y,1,VIE,NA,6,NA,2701,Standard Exceeded,4,2654,Standard Exceeded,4,Above Standard,Above Standard,Near Standard,231,92,11,14,238,245,245,97,14,Yes,1,250,96,19,5,Y,1
+2018,F,Asian,N,0,Y,1,VIE,NA,6,NA,2554,Standard Met,3,2583,Standard Exceeded,4,Above Standard,Near Standard,Above Standard,217,67,11,17,225,234,218,56,1,No,0,238,84,21,20,Y,1
+2018,F,Asian,N,0,Y,1,VIE,NA,6,NA,2579,Standard Met,3,2693,Standard Exceeded,4,Above Standard,Above Standard,Near Standard,226,85,11,14,233,240,228,79,2,No,0,240,87,14,12,Y,1
+2018,F,Asian,N,0,Y,1,VIE,NA,6,NA,2559,Standard Met,3,2592,Standard Exceeded,4,Above Standard,Above Standard,Near Standard,226,85,11,14,233,240,237,92,11,Yes,1,244,92,18,7,Y,1
+2018,M,Asian,Y,1,Y,1,VIE,EARLY ADVANCED,4,NA,2618,Standard Exceeded,4,2577,Standard Met,3,Above Standard,Above Standard,Near Standard,221,76,11,14,228,235,233,87,12,Yes,1,241,88,20,8,Y,1
+2018,M,Asian,N,0,N,0,VIE,NA,6,NA,2551,Standard Met,3,2669,Standard Exceeded,4,Above Standard,Above Standard,Above Standard,211,51,11,17,219,228,238,93,27,Yes,1,247,94,36,9,Y,1
